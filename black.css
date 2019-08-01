@@ -1,4 +1,4 @@
-body { background: #ffffff; color: #e6e6e6; }
+body { background: #222; color: #e6e6e6; }
 
 a { color: #949494; }
 
@@ -26,7 +26,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 .bullet { color: #949494; }
 
-.p-client { background: #222; }
+.p-client { background: #fff; }
 
 .alert, .c-alert, .c-alert--boxed { background-color: #363636; border-color: #000; color: #e6e6e6; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); }
 
