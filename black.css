@@ -180,7 +180,7 @@ input[type=file]:focus { outline: #e6e6e6 dotted thin; }
 
 input[type=radio]:focus, input[type=checkbox]:focus { outline: #e6e6e6 dotted thin; }
 
-select { background: #545454; }
+select { background: #161616; }
 
 select, textarea { border: 1px solid #000; color: #e6e6e6; }
 
