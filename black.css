@@ -390,7 +390,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #msg_form .msg_mentions_button:hover { color: #e6e6e6; }
 
-#msg_input { background: #545454; border-color: #424242; color: #e6e6e6; }
+#msg_input { background: #0064df; border-color: #424242; color: #e6e6e6; }
 
 #msg_input::-webkit-input-placeholder { color: #e6e6e6 !important; -webkit-filter: none; filter: none; opacity: 0.5; }
 
