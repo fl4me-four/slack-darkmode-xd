@@ -2041,7 +2041,7 @@ a.file_download_link { color: #949494; }
 
 a.file_download_link:hover { color: #c7c7c7; }
 
-a:hover .file_inline_icon { color: #949494; }
+a:hover .file_inline_icon { color: #8aff00; }
 
 a.gsheet img, a.pdf img { background: #222 !important; }
 
