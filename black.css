@@ -1693,7 +1693,7 @@ pre span.mention { padding: 2px 0 !important; }
 
 #page pre, body > pre { background: #000; color: #e6e6e6 !important; }
 
-body > pre { background: #828282; }
+body > pre { background: #fff; }
 
 .special_formatting_quote .quote_bar { background-color: #545454; }
 
