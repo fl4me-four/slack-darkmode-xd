@@ -1,4 +1,4 @@
-body { background: #222; color: #e6e6e6; }
+body { background: #000; color: #e6e6e6; }
 
 a { color: #949494; }
 
@@ -40,7 +40,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 ::-webkit-scrollbar-thumb { background: #545454 !important; border-left-color: #363636 !important; border-right-color: #363636 !important; color: #222 !important; }
 
-::-webkit-scrollbar-corner { background: #222 !important; }
+::-webkit-scrollbar-corner { background: #000 !important; }
 
 .supports_custom_scrollbar #messages_container::after { background: none !important; }
 
@@ -52,13 +52,13 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 #client-ui .monkey_scroll_bar { background: #424242; }
 
-#client-ui .monkey_scroll_handle_inner { background: #545454; border: 3px solid #222; }
+#client-ui .monkey_scroll_handle_inner { background: #545454; border: 3px solid #000; }
 
 .c-scrollbar--monkey .c-scrollbar__track { background: #424242; }
 
-.c-scrollbar--monkey .c-scrollbar__bar { background: #545454; box-shadow: 0 3px 0 #222, 0 -3px 0 #222; }
+.c-scrollbar--monkey .c-scrollbar__bar { background: #545454; box-shadow: 0 3px 0 #000, 0 -3px 0 #222; }
 
-.client_channels_list_container { background-color: #363636; border-right-color: #222; }
+.client_channels_list_container { background-color: #363636; border-right-color: #000; }
 
 #col_channels { color: #e6e6e6; }
 
@@ -68,7 +68,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 .p-channel_sidebar__channel--selected, .p-channel_sidebar__channel--selected:link, .p-channel_sidebar__channel--selected:visited, .p-channel_sidebar__channel--selected:hover, .p-channel_sidebar__link--selected, .p-channel_sidebar__link--selected:link, .p-channel_sidebar__link--selected:visited, .p-channel_sidebar__link--selected:hover { color: #e6e6e6; }
 
-.p-channel_sidebar__channel:hover, .p-channel_sidebar__link:hover { background: #222 !important; }
+.p-channel_sidebar__channel:hover, .p-channel_sidebar__link:hover { background: #000 !important; }
 
 .p-channel_sidebar__header { color: #e6e6e6 !important; }
 
@@ -128,7 +128,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 #quick_switcher_btn > i { color: #949494; }
 
-#quick_switcher_btn:active, #quick_switcher_btn:hover { background: #222; border-color: #222; }
+#quick_switcher_btn:active, #quick_switcher_btn:hover { background: #000; border-color: #000; }
 
 #quick_switcher_btn:active > i, #quick_switcher_btn:hover > i { color: #949494; }
 
@@ -140,7 +140,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 .p-channel_insights__date_heading::before { background-color: #363636; }
 
-.p-channel_insights__date_heading span { background-color: #222; color: #949494; }
+.p-channel_insights__date_heading span { background-color: #000; color: #949494; }
 
 .p-channel_insights__message--truncate::before { background: linear-gradient(180deg, transparent, #363636 90%); }
 
