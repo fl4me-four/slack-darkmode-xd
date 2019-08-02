@@ -806,27 +806,27 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .messages_header { color: #e6e6e6; }
 
-.channel_title .channel_name_container .channel_name { color: #e6e6e6; }
+.channel_title .channel_name_container .channel_name { color: #3cf0f0; }
 
-.channel_title .channel_name_container .channel_name.muted { color: #949494; }
+.channel_title .channel_name_container .channel_name.muted { color: #006c6b; }
 
-.channel_title .channel_name_container .ts_icon_shared_channel.away, .channel_title .channel_name_container .mpdm_member.away { color: #949494; }
+.channel_title .channel_name_container .ts_icon_shared_channel.away, .channel_title .channel_name_container .mpdm_member.away { color: #006c6b; }
 
-.channel_title .channel_name_container .muted_icon { color: #949494; }
+.channel_title .channel_name_container .muted_icon { color: #3cf0f0; }
 
-.channel_title .channel_name_container .muted_icon:hover { color: #bf360c; }
+.channel_title .channel_name_container .muted_icon:hover { color: #006c6b; }
 
-#im_title.away { color: #949494; }
+#im_title.away { color: #006c6b; }
 
-.channel_header_info button { color: #949494; }
+.channel_header_info button { color: #3cf0f0; }
 
-.channel_header_icon { color: #e6e6e6; }
+.channel_header_icon { color: #3cf0f0; }
 
-.channel_calls_button .call_icon.call_window_offline { color: #949494; }
+.channel_calls_button .call_icon.call_window_offline { color: #006c6b; }
 
-.channel_actions_toggle.active:focus, .details_toggle.active:focus { color: #e6e6e6; }
+.channel_actions_toggle.active:focus, .details_toggle.active:focus { color: #3cf0f0; }
 
-#flex_menu_toggle.active, #flex_menu_toggle.active:focus { color: #e6e6e6; }
+#flex_menu_toggle.active, #flex_menu_toggle.active:focus { color: #3cf0f0; }
 
 #flex_menu_toggle .flex_menu_download_circle { background: #222; }
 
