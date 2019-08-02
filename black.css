@@ -872,7 +872,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .p-classic_nav__right__search__icon, .p-classic_nav__right__search__placeholder { color: #e6e6e6; }
 
-.c-message_list__day_divider__label { color: #fff; }
+.c-message_list__day_divider__label { color: #000; }
 
 .c-message_list__day_divider__label__pill { background: #3cf0f0; position: relative; }
 
