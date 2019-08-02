@@ -872,11 +872,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .p-classic_nav__right__search__icon, .p-classic_nav__right__search__placeholder { color: #e6e6e6; }
 
-.c-message_list__day_divider__label { color: #949494; }
+.c-message_list__day_divider__label { color: #006c6b; }
 
 .c-message_list__day_divider__label__pill { background: #222; position: relative; }
 
-.c-message_list__day_divider__line { border-top-color: #363636; }
+.c-message_list__day_divider__line { border-top-color: #3cf0f0; }
 
 .day_divider, .mention_day_container_div .day_divider { background: #222; color: #949494; }
 
