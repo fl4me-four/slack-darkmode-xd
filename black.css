@@ -874,11 +874,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message_list__day_divider__label { color: #fff; }
 
-.c-message_list__day_divider__label__pill { background: #006c6b; position: relative; }
+.c-message_list__day_divider__label__pill { background: #3cf0f0; position: relative; }
 
 .c-message_list__day_divider__line { border-top-color: #3cf0f0; }
 
-.day_divider, .mention_day_container_div .day_divider { background: #222; color: #949494; }
+.day_divider, .mention_day_container_div .day_divider { background: #000; color: #3cf0f0; }
 
 .day_divider hr, .mention_day_container_div .day_divider hr { border-bottom: 0; border-top: 1px solid #363636; }
 
@@ -888,9 +888,9 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .day_container.unread_day_container .day_msgs { border-color: #828282; }
 
-.day_container .day_divider { background: none; color: #949494; }
+.day_container .day_divider { background: none; color: #000; }
 
-.day_container .day_divider .day_divider_label { background: #222; }
+.day_container .day_divider .day_divider_label { background: #000; }
 
 .search_form { border-color: #3cf0f0; }
 
