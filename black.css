@@ -850,7 +850,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #edit_topic_trigger { color: #949494; }
 
-.p-classic_nav { background: #363636; }
+.p-classic_nav { background: #111; }
 
 .p-classic_nav__model__button { color: #006c6b; }
 
