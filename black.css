@@ -144,7 +144,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 .p-channel_insights__message--truncate::before { background: linear-gradient(180deg, transparent, #363636 90%); }
 
-.p-channel_insights__message ts-message.standalone:not(.for_mention_display):not(.for_search_display):not(.for_top_results_search_display):not(.for_star_display) { background-color: #222; border-color: #363636; }
+.p-channel_insights__message ts-message.standalone:not(.for_mention_display):not(.for_search_display):not(.for_top_results_search_display):not(.for_g_display) { background-color: #222; border-color: #363636; }
 
 .c-dialog__content { border-radius: 0.6rem; }
 
@@ -892,7 +892,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .day_container .day_divider .day_divider_label { background: #222; }
 
-.search_form { border-color: #545454; }
+.search_form { border-color: #3cf0f0; }
 
 .search_form .search_input { background: transparent; }
 
@@ -918,7 +918,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-search { background: transparent; }
 
-.c-search_message__body { color: #e6e6e6; }
+.c-search_message__body { color: #3cf0f0; }
 
 .p-search_filter__more_link { color: #e6e6e6; }
 
