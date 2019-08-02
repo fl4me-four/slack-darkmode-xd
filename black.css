@@ -2589,7 +2589,7 @@ ts-thread .collapse_inline_thread_container:hover, ts-thread .view_all_replies_c
 
 .c-member .external_team_badge::after { box-shadow: inset 0 0 0 1px #545454; }
 
-.c-member__name--small, .c-team__name--small, .c-usergroup__name--small { color: #e6e6e6; }
+.c-member__name--small, .c-team__name--small, .c-usergroup__name--small { color: #3cf0f0; }
 
 .c-member--small .presence { color: #949494; }
 
