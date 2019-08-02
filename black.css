@@ -872,9 +872,9 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .p-classic_nav__right__search__icon, .p-classic_nav__right__search__placeholder { color: #e6e6e6; }
 
-.c-message_list__day_divider__label { color: #006c6b; }
+.c-message_list__day_divider__label { color: #fff; }
 
-.c-message_list__day_divider__label__pill { background: #222; position: relative; }
+.c-message_list__day_divider__label__pill { background: #006c6b; position: relative; }
 
 .c-message_list__day_divider__line { border-top-color: #3cf0f0; }
 
