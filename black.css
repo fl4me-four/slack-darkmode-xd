@@ -796,7 +796,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #limit_meter_message_body { color: #949494; }
 
-.channel_header { background: #222; box-shadow: inset 1px 0 0 0 #222; }
+.channel_header { background: #111; }
 
 .channel_header .blue_on_hover:hover { color: #e6e6e6; }
 
