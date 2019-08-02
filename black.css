@@ -1054,9 +1054,9 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message_group:hover .c-message_group__header { color: #949494; }
 
-.c-message_group__header { color: #e6e6e6; }
+.c-message_group__header { color: 3cf0f0; }
 
-.c-message_group__divider_text { background-color: #222; color: #e6e6e6; }
+.c-message_group__divider_text { background-color: #3cf0f0; color: #3cf0f0; }
 
 .c-app_badge { background: #545454; box-shadow: 0 0 2px rgba(0, 0, 0, 0.25); color: #949494; }
 
@@ -1066,7 +1066,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message_list__spinner { color: #949494; }
 
-.c-message_list .c-scrollbar__bar { background: #424242; }
+.c-message_list .c-scrollbar__bar { background: #3cf0f0; }
 
 .c-virtual_list__item--focus:focus .c-message_list__focus_indicator { box-shadow: inset 0 0 0 3px rgba(130, 130, 130, 0.8); }
 
